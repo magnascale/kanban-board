@@ -1,5 +1,18 @@
 # KanbanUi
 
+## How to run project
+- Install dependecies
+
+    `npm install`
+
+- Build project
+    
+    `npm run build`
+
+- Serve `dist` folder with nginx using `default.conf`
+
+## Note
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Development server

@@ -1,3 +1,8 @@
 ### Kanban backend
 
-Spring Boot app - Work in Progress
+## How to run project
+Create jar file
+`mvn clean package`
+
+Run jar file
+`java -jar *.jar`
